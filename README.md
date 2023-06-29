@@ -105,7 +105,7 @@ You can find the link to initialize the repo in the manifest of the particular R
 
 ```bash
 # Initialize local repository
-repo init -u --depth=1 https://github.com/PixelExperience/manifest -b thirteen
+repo init -u https://github.com/PixelExperience/manifest -b thirteen
 ```
 Note --depth=1 is provided for the most recent files to pick up and scan for it. 
 
