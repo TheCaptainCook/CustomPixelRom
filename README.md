@@ -107,7 +107,7 @@ You can find the link to initialize the repo in the manifest of the particular R
 # Initialize local repository
 repo init -u https://github.com/PixelExperience/manifest -b thirteen
 ```
-Note --depth=1 is provided for the most recent files to pick up and scan for it. 
+Note: You can further add --depth=1 later on building to sync the most recent files to pick up and scan for it. 
 
 ## 11. Download the source repository
 Download the source code by this command:
